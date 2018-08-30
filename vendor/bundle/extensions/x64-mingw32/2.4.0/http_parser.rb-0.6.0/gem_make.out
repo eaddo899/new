@@ -1,0 +1,15 @@
+current directory: C:/Users/m80051892.CHINA/Documents/Public 2/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180830-7688-mewcab.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/m80051892.CHINA/Documents/Public 2/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: C:/Users/m80051892.CHINA/Documents/Public 2/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+generating ruby_http_parser-x64-mingw32.def
+compiling ruby_http_parser.c
+x86_64-w64-mingw32-gcc.exe: error: 2/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser: No such file or directory
+make: *** [Makefile:242: ruby_http_parser.o] Error 1
+
+make failed, exit code 2
